@@ -10,10 +10,10 @@ SIGNPASS는 간편하고 안전한 전자계약 서비스입니다.
 
 ## 사용방법 가이드
 
-- [회원가입 및 로그인](/guide/mobile/contract-add)
-- [계약서 템플릿 만들기](/guide/mobile/contract-send)
-- [계약서 발송 및 작성](/guide/mobile/contract-manage)
-- [커스텀 계약서 만들기](/guide/mobile/contract-manage)
-- [QR코드를 이용한 계약서 작성](/guide/mobile/contract-manage)
-- [계약서 대량 발송](/guide/mobile/contract-manage)
+- [회원가입 및 로그인](/guide/signup-login)
+- [계약서 템플릿 만들기](/guide/template-create)
+- [계약서 발송 및 작성](/guide/send-and-write)
+- [커스텀 계약서 만들기](/guide/custom-contract)
+- [QR코드를 이용한 계약서 작성](/guide/qr-contract)
+- [계약서 대량 발송](/guide/bulk-send)
 
