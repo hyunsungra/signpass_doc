@@ -2,7 +2,7 @@ export default {
   title: 'SIGNPASS 문서',
   description: 'SIGNPASS 공식 문서',
   lang: 'ko-KR',
-  base: '/signpass_doc/', // GitHub 저장소 이름
+  // base: '/signpass_doc/', // custom domain 사용시 주석처리
   
   themeConfig: {
     nav: [
